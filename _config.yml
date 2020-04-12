@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 1332077750@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, MAY的博客, MAY,"
-url: "http://mayawei.github.io"          # your host, for absolute URL
+url: "http://MAYmayawei.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/MAYmayawei/MAYmayawei.github.io.git" # you code repository
 
